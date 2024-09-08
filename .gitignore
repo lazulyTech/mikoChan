@@ -1,0 +1,8 @@
+.pio
+.cache
+.clangd
+.clang-format
+compile_commands.json
+.vscode
+DS_Store
+
